@@ -1,1 +1,1 @@
-![Alt text](relative%20path/to/result_Object_Tracking.png?raw=true "Title")
+![Alt text]([image link](https://github.com/KaitoKidKao/Object-Tracking/blob/main/result_Object_Tracking.png)https://github.com/KaitoKidKao/Object-Tracking/blob/main/result_Object_Tracking.png)
